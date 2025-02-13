@@ -10,19 +10,28 @@ I am a passionate Full Stack Developer skilled in both frontend and backend tech
 
 ## Skills
 
+### Programming Languages:
+- **C/C++**, **Java**, **Python**
+
+
 ### Frontend:
 - **HTML**, **React.js**, **Next.js**
+
 
 ### Backend:
 - **SpringBoot**, **Node.js**, **Python-Django**
 - **Microservices Architecture**
+
+### Databases Expertise in:
+- **MYSQL**, **MongoDB**, **POSTGRESQL**
+
 
 ## Contributions
 - I have made **90** contributions in open-source projects, focusing on both frontend and backend development.
 
 ## Reach Out to Me:
 - 📫 How to reach me: [Email](mailto:pattiputtoor20050320@gmail.com.com)
-- 🌐 Visit my website: [www.harshavardana.com](https://harshavardana-reddy.github.io/MyPortFolio/)
+- 🌐 Visit my website: [Portfolio](https://harshavardana-reddy.github.io/MyPortFolio/)
 - 🤝 I’m always open to collaborating on exciting projects.
 
 ## Let's Connect!
