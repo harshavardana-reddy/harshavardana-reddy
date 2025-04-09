@@ -26,8 +26,8 @@ I am a passionate Full Stack Developer skilled in both frontend and backend tech
 - **MYSQL**, **MongoDB**, **POSTGRESQL**
 
 ## Reach Out to Me:
-- 📫 How to reach me: [Email](mailto:pattiputtoor20050320@gmail.com.com)
-- 🌐 Visit my website: [Portfolio](https://harshavardana-reddy.github.io/MyPortFolio/)
+- 📫 How to reach me: [Email](mailto:pattiputtoor20050320@gmail.com)
+- 🌐 Visit my website: [Portfolio](https://harshapdevportfolio.vercel.app)
 - 🤝 I’m always open to collaborating on exciting projects.
 
 ## Let's Connect!
